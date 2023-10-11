@@ -1,0 +1,19 @@
+:root {
+    --small-font-size: .875rem;
+    --normal-font-size: 1.125rem;
+
+    --black: hsl(0deg, 0%, 20%);
+    --white: hsl(0deg, 0%, 100%);
+    --gold: hsl(25deg, 31%, 61%);
+    --grey: hsl(0deg, 0%, 73%);
+    --dark-grey: hsl(0deg, 0%, 42%);
+
+    --font-color: var(--black);
+    --active-color: var(--gold);
+    --font-color-white: var(--white);
+
+
+    --background-color: var(--white);
+    --background-color-black: var(--black);
+    --background-color-grey: var(--grey);
+}
